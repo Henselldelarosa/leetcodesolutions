@@ -31,3 +31,10 @@ const lengthOfLongestSubstring = (s) =>{
   return max
 
 };
+
+// example 1
+console.log(lengthOfLongestSubstring('abcabcbb')) // 3
+// example 2
+console.log(lengthOfLongestSubstring('bbbbb')) // 1
+// example 3
+console.log(lengthOfLongestSubstring('pwwkew')) // 3
