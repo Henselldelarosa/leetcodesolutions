@@ -24,8 +24,6 @@ const reverse = (x) =>{
          return 0
      }
      return checker
-
-
   }
  };
 
