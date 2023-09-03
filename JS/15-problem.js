@@ -35,7 +35,7 @@ const threeSum = (nums) =>{
 
 // example 1
 console.log(threeSum([-1,0,1,2,-1,-4])) //[[-1,-1,2],[-1,0,1]]
-// example 1
+// example 2
 console.log(threeSum([0,1,1])) //[]
-// example 1
+// example 3
 console.log(threeSum([0,0,0])) //[[0,0,0]]
