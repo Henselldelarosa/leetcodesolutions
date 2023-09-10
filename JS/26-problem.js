@@ -12,7 +12,7 @@ const removeDuplicates = (nums) =>{
 
 //example1
 console.log(removeDuplicates([1,1,2]))//2
-//example1
+//example2
 console.log(removeDuplicates([0,0,1,1,1,2,2,3,3,4]))//5
-//example1
+//example3
 console.log(removeDuplicates([]))//0
